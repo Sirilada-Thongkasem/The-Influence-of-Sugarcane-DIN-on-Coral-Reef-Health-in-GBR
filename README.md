@@ -31,6 +31,6 @@ This study focuses on three sugarcane-dominated catchments in Queensland that dr
 * The analysis aims to provide scientific evidence supporting nutrient reduction strategies to improve reef resilience and water quality in Queensland’s coastal ecosystems.
 
 ---
-**Author:** [Sirilada Thongkasem, Wei Fei Shi, Yiyi Li​]  
+**Authors:** [Sirilada Thongkasem, Wei Fei Shi, Yiyi Li​]  
 **Institution:** [Group 2 ENVI5809, University of Sydney]  
 **Date:** October 2025  
