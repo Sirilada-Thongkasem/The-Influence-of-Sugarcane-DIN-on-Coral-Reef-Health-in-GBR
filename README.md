@@ -1,4 +1,5 @@
 # The Influence of Sugarcane-Derived Dissolved Inorganic Nitrogen (DIN) on Coral Reef Health in the Great Barrier Reef
+
 ---
 ## Background & Problem
 * Coastal ecosystems face serious threats from land-derived nutrients.  
@@ -10,12 +11,11 @@
 - [Reef 2050 Water Quality Improvement Plan – Reef regions](https://www.reefplan.qld.gov.au/reef-regions)  
 - [Sugarcane farming and the Great Barrier Reef: the role of a principled approach to change (2018)](https://doi.org/10.1016/j.landusepol.2018.07.026)  
 - [NESP TWQ Project Report - Sub-catchment scale monitoring, modelling and extension design to support reef water quality improvement in sugarcane catchments (2016)](http://nesptropical.edu.au/wp-content/uploads/2016/07/NESP-TWQ-1.8-FINAL-REPORT-A.pdf)
+
 ---
 ## Study Area
-This study focuses on three sugarcane-dominated catchments in Queensland that drain into the Great Barrier Reef:
-**Wet Tropics Central**
-**Wet Tropics South**
-**Burdekin**
+This study focuses on three sugarcane-dominated catchments in Queensland that drain into the Great Barrier Reef: Wet Tropics Central, Wet Tropics South, and Burdekin.
+
 ---
 ## Research Questions
 1. Do agricultural practices and rainfall events significantly influence DIN outputs?  
