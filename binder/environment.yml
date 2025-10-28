@@ -1,0 +1,17 @@
+name: reef-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - seaborn
+  - netCDF4
+  - cartopy
+  - cmocean
+  - pillow
+  - joblib
+  - pip
