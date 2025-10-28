@@ -34,3 +34,5 @@ This study focuses on three sugarcane-dominated catchments in Queensland that dr
 **Authors:** [Sirilada Thongkasem, Wei Fei Shi, Yiyi Li​]  
 **Institution:** [Group 2 ENVI5809, University of Sydney]  
 **Date:** October 2025  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sirilada-Thongkasem/The-Influence-of-Sugarcane-DIN-on-Coral-Reef-Health-in-GBR/HEAD)
