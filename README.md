@@ -1,5 +1,4 @@
 # The Influence of Sugarcane-Derived Dissolved Inorganic Nitrogen (DIN) on Coral Reef Health in the Great Barrier Reef
----
 
 ## Background & Problem
 * Coastal ecosystems face serious threats from land-derived nutrients.  
